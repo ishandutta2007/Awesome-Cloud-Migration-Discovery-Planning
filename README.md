@@ -65,7 +65,7 @@ The Cloud Migration and Digital Transformation Software market is estimated at *
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-*Sorted by GitHub Stars Count (Descending)* 📊
+*Sorted by GitHub_Stars_Count (Descending)* 📊
 
 - **[Cartography](https://github.com/lyft/cartography)** [![Stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers)  
   **Infrastructure asset and relationship mapping**, Apache-2.0 licensed. Consolidates infrastructure assets and dependencies into an intuitive Neo4j graph view. Supports 30+ platforms including AWS, Azure, GCP, Kubernetes, and Okta. Exposes hidden security and infrastructure dependency relationships essential for cloud migration wave planning. Python-based, battle-tested in enterprise production environments. 🗺️ 🐍
@@ -93,7 +93,7 @@ Contributions are welcome! Follow these steps to submit new migration discovery 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count badge, license, starting pricing, free tier limits, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, starting pricing, free tier limits, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your additions.
 
 ---
